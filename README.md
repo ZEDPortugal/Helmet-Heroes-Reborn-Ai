@@ -1,2 +1,7 @@
 # Helmet-Heroes-Reborn-Ai
-for fun only
+py imports
+
+pip install pydirectinput
+pip install customtkinter
+pip install pyautogui
+pip install threading
